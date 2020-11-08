@@ -7,8 +7,8 @@ sections:
 - type: document
   path: src/pages/index.js
   label: Index
-upload_dir: https://github.com/Robert95Sch/brauerei-website/tree/master/src/assets
-public_path: https://github.com/Robert95Sch/brauerei-website/tree/master/src/assets
+upload_dir: https://github.com/Robert95Sch/brauerei-website/tree/master/src/assets/images
+public_path: https://github.com/Robert95Sch/brauerei-website/tree/master/src/assets/images
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
